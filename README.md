@@ -11,4 +11,4 @@ Data from Amazon's top 50 bestselling books list from the years 2009 to 2019 was
 
 After downloading the data, I manually added the 'Genre' column by looking up the authors.
 
-A range of insights were gained from the data. Below, I've summarized my results. The notebook and my edited dataset have been uploaded in the repository.
+A range of insights were gained from the data; the notebook and my edited dataset have both been uploaded in the repository.
